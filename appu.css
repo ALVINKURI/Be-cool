@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(148, 172, 164);
+
+}
+class1{
+    background-color: aquamarine;
+}
+h6{
+    background-color: rgb(184, 138, 78);
+    
+}
+.nav-link{
+    color: greenyellow;
+}
+class{
+    align-items: center;
+}
+body{
+   background-image: url("image4.jpg");
+   background-repeat: no-repeat;
+   animation:forwards;
+   background-size: cover;
+}
